@@ -1,0 +1,13 @@
+{
+  "emmet.showExpandedAbbreviation": "always",
+  "prettier.singleQuote": true,
+  "prettier.jsxSingleQuote": true,
+  "explorer.compactFolders": false,
+  "editor.formatOnSave": true,
+  "files.autoSave": "afterDelay",
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "files.autoSaveDelay": 500,
+  "emmet.includeLanguages": {
+    "javascript": "javascriptreact"
+  }
+}
